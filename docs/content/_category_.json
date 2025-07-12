@@ -1,6 +1,6 @@
 {
-  "label": "Tutorial - Extras",
-  "position": 3,
+  "label": "単語一覧",
+  "position": 2,
   "link": {
     "type": "generated-index"
   }
